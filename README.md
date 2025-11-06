@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Python Full Stack<br>👯 I’m looking to collaborate on Python, SQL<br>🤝 I’m looking for help with Next.js<br>🌱 I’m currently learning React<br>
+🔭 I’m currently working on Python Full Stack<br>👯 I’m looking to collaborate on Python, SQL<br>🤝 I’m currently Working on React.js project<br>🌱 I’m currently learning Python, Next.js<br>
 
 
 ## 🌐 Socials:
